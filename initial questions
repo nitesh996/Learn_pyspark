@@ -1,0 +1,2 @@
+Difference between RDDs and DataFrames: RDDs (Resilient Distributed Datasets) are the basic abstraction in Spark and are lower level, offering more control but less optimization. DataFrames, on the other hand, are higher-level APIs that provide a more structured way to work with data and are optimized for better performance. DataFrames are recommended for most operations due to their optimizations.
+    
